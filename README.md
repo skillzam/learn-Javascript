@@ -1,4 +1,4 @@
-# Learn JavaScript
+# Learn JavaScript Language
 
 Complete JS Notes: https://skillzam.com/notes/javascriptNotes.html
 
